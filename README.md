@@ -41,3 +41,4 @@ https://www.youtube.com/watch?v=BL1ChzapxIo
 
 ### Disclaimer
 Using cheats may violate the terms of service of the game. Use responsibly and at your own risk.
+This is just a memeproject and we are not the original ezfrags.co.uk
