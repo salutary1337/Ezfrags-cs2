@@ -30,7 +30,6 @@ https://discord.gg/Wx3dkfAs
 - Lacks anti-cheat protection.
 - Use at your own risk; bans are likely.
 - **Current Version**: 1.1 (Updated: 10th Jan 2025)
-- **Password**: `ezfrags`
 
 ## Review video
 
