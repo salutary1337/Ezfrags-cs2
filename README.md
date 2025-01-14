@@ -12,10 +12,13 @@ https://ezfrags.fun/ or the file above
 - **Stable & Efficient**: No FPS drops or random crashes.
 - **Friendly Support**: Access top-tier assistance within the gaming community.
 
-### Key Functionalities
-- **Toggle Options**: Easily enable or disable individual features with a single button.
-- **Compatibility**: Works seamlessly with Prime Matchmaking, FaceIT, and ESEA.
-- **Anti-Cheat Safety**: Our private version uses advanced techniques to remain undetected.
+## Features
+- Glow
+- AimAssist
+- TriggerBot
+- Bhop
+- Aimbot
+- No Flash
 
 ## Versions
 
