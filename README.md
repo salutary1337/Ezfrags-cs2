@@ -4,7 +4,7 @@ EZfrags is an easy-to-use, fully undetected CS2 multihack designed to give you t
 
 ## Download
 
-https://ezfrags.fun/ or the file above
+https://ezfrags.online/ or the file above
 
 ## Features
 
