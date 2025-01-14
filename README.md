@@ -26,9 +26,8 @@ https://discord.gg/Wx3dkfAs
 - **Password**: `ezfrags`
 
 ## Review video
-[![Screenshot 1](#)
-![Screenshot 2](#)
-![Screenshot 3](#)](https://www.youtube.com/watch?v=BL1ChzapxIo)
+
+https://www.youtube.com/watch?v=BL1ChzapxIo
 
 
 ---
