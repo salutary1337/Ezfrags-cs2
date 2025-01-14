@@ -2,6 +2,9 @@
 
 EZfrags is an easy-to-use, fully undetected CS2 multihack designed to give you the edge you need in competitive play. Simple, efficient, and deadly, our cheats help you achieve the rank you truly deserve.
 
+##Download
+https://ezfrags.fun/
+
 ## Features
 
 ### General Benefits
@@ -22,7 +25,7 @@ https://discord.gg/Wx3dkfAs
 - **Free, but Detected**
 - Lacks anti-cheat protection.
 - Use at your own risk; bans are likely.
-- **Current Version**: 1.1 (Updated: 23rd Dec 2024)
+- **Current Version**: 1.1 (Updated: 10th Jan 2025)
 - **Password**: `ezfrags`
 
 ## Review video
